@@ -1,4 +1,4 @@
-#Florissio
+# Florissio
 
 Florissio is an innovative platform revolutionizing the $50 billion floral industry by bringing the art of floristry through mass adoption into the digital age with blockchain technology.
 Understanding that florists are artists who may not be skilled in technology, Florissio simplifies the process, by giving them a straightforward way to adopt digital tools and seamlessly enables these artists to immortalize their arrangements. Florists can create, tokenize, and sell their digital floral arrangements as non-fungible tokens (NFTs), all while contributing to a more sustainable and environmentally friendly future, allowing them to trade globally while ensuring authenticity and preserving ownership through the secure, transparent nature of blockchain.
